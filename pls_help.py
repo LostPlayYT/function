@@ -3,7 +3,7 @@ import random
 body = 0
 
 def nasobeni(a, b):
-    vysledek = a * b
+    vysledek = a*b
     return vysledek
 
 def kontrola(vysledek, vysledek_zak):
